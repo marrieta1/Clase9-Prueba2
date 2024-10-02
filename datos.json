@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Logo XFood",
+        "descripcion": "Logo realizado para una empresa distribuidora de comida que buscaba renovar su imagen y pueda ser mas versátil en su uso.",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/8e2cf9d6-c204-4d3d-85bc-83d25d0c60ba",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Kitu",
+        "descripcion": "Trabajo realizado en grupo en el sector de Hualañé. Se basaba en un diseño de servicio colabortivo para potenciar el turismo y agricultura.",
+        "fecha": "2022",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/87d06ddd-9f39-4139-9a15-95500a05911e",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Minutare",
+        "descripcion": "Reloj hecho con acrilico y cemento, el cual marcaba por cada cuarto de horas.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/45b3dbe9-59a0-40b0-a96f-7b492852cef9",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Guitarra",
+        "descripcion": "Guitarra creada en programa Rhino 7 y Keyshot. El objetivo era llegar a la mayor cantidad de detalles posibles.",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/6d6e61c1-68b7-4211-9b9c-338db066c918",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Daff",
+        "descripcion": "Diseño para la marca DAFF especializada en comida MRE. Se buscaba crear una nueva linea para civiles en casos de emergencia.",
+        "fecha": "2023",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/225b4edf-4e18-4e26-864d-d73680cae536",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Poleras SRC",
+        "descripcion": "Rediseño de la identidad del Santiago Runners Club, se realizó con todo el taller.",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/dd0ce653-8c11-4385-ba62-7cce38521d40",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Logo Breezy",
+        "descripcion": "Logo para una marca emergente de vestimenta tropical.",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/db616ba8-25e8-44d5-8597-ab5e72e9c984",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Auto CADCAM",
+        "descripcion": "Aproximación al corte laser, como llevar desde un diseño 3D a algo tangible, se realizo mediante encajes.",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/414d3f2f-19bd-4299-adb7-b27c406a265b",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Monedero",
+        "descripcion": "Aproximación a Impresión 3D, como llevar desde un diseño 3D a algo tangible, se realizo mediante dos piezas que se encajan entre sí.",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/5667e2fe-03dd-4001-807a-ffe2b377b029",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Isotipos",
+        "descripcion": "Trabajo realizado en grupos, el objetivo era reducir los recursos visuales al mínimo con respecto a la pelicula La Familia Tenenbaum.",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/5f3c165f-4f91-4eac-9f31-f3acd3a113cb",
+        "github": "https://github.com/marrieta1"
+    }
+]
