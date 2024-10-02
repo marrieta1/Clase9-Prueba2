@@ -9,5 +9,5 @@
 ![Breezy](https://github.com/user-attachments/assets/db616ba8-25e8-44d5-8597-ab5e72e9c984)
 ![Daff](https://github.com/user-attachments/assets/225b4edf-4e18-4e26-864d-d73680cae536)
 ![Kitu](https://github.com/user-attachments/assets/87d06ddd-9f39-4139-9a15-95500a05911e)
-![GuiaRedApoyo](https://github.com/user-attachments/assets/f939c9d0-1af0-493d-ad84-ca7cdd0baf4d)
-![Rediseño Smile Kids](https://github.com/user-attachments/assets/2dffc5c4-8fb9-46c5-9272-71536a794efb)
+![GuiaRedApoyo](https://github.com/user-attachments/assets/ccad47f1-1d2a-49a5-a80e-f81df2453e0f)
+![Rediseño Smiley Kids](https://github.com/user-attachments/assets/c778f5c9-f7c2-4a35-95df-2b38a7ef11ad)
